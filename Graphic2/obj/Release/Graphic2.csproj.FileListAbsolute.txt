@@ -1,0 +1,10 @@
+D:\Programms\Graphic2\Graphic2\bin\Release\Graphic2.exe.config
+D:\Programms\Graphic2\Graphic2\bin\Release\Graphic2.exe
+D:\Programms\Graphic2\Graphic2\bin\Release\Graphic2.pdb
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.Form1.resources
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.Properties.Resources.resources
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.csproj.GenerateResource.cache
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.csproj.CoreCompileInputs.cache
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.exe
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.pdb
+D:\Programms\Graphic2\Graphic2\obj\Release\Graphic2.csprojAssemblyReference.cache
